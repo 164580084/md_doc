@@ -106,3 +106,17 @@ title: 一、js规范
          return result
        }
  ```
+
+## 5. 事件命名
+
+ ```JS{0}
+      /** 驼峰命名
+        * ajax 方法以 get、post 开头，以 data 结尾（getListData、postFormData）
+        * 事件方法以 on 开头（onTypeChange、onUsernameInput）
+        */
+
+
+ ```
+
+
+
